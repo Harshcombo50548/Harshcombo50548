@@ -109,7 +109,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Harshcombo50548/Harshcombo50548/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Harshcombo50548/Harshcombo50548/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
