@@ -103,8 +103,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshcombo50548&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Harshcombo50548&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshcombo50548&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Harshcombo50548&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
