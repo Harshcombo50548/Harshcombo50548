@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="center">✦ I’m a Cybersecurity and Programming student. ✦<br>✦ I have a passion for coding and exploring new technologies. ✦<br>✦ Always learning and building cool stuff. ✦</h3>
+<h3 align="center">✦ Exploring Cybersecurity and Programming. ✦<br>✦ I have a passion for coding and exploring new technologies. ✦<br>✦ Always learning and building cool stuff. ✦</h3>
 
 ###
 
